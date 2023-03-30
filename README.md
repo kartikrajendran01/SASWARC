@@ -3,9 +3,9 @@
 Topic - Clean India**
 
 ### Members  
-Atharva Taras (Leader)  
+Kartik Rajendran   
 Sanskruti Kakade  
-Kartik Rajendran  
+Atharva Taras  
 Vainshnavi Nimkar  
 
 ### Tech Stack
